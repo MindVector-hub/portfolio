@@ -1,0 +1,215 @@
+{
+    "about": {
+        "text1": "I am a Bengali graduate and Linguistics postgraduate with a strong interest in software development and information technology.",
+        "text2": "My learning journey combines programming, web development, databases, office productivity tools and practical software projects. I enjoy building useful applications and continuously improving my technical skills."
+    },
+
+    "skills": [
+
+        {
+            "icon": "bi-code-slash",
+            "title": "Programming",
+            "description": "Programming fundamentals and application development.",
+            "tags": [
+                "Python",
+                "C#",
+                "VB.NET",
+                "Java"
+            ]
+        },
+
+        {
+            "icon": "bi-window-stack",
+            "title": "Web Development",
+            "description": "Building database-driven and responsive web applications.",
+            "tags": [
+                "HTML",
+                "CSS",
+                "Bootstrap",
+                "PHP",
+                "ASP.NET",
+                "Razor"
+            ]
+        },
+
+        {
+            "icon": "bi-database",
+            "title": "Database",
+            "description": "Working with relational databases and CRUD-based applications.",
+            "tags": [
+                "MySQL",
+                "SQLite",
+                "SQL",
+                "phpMyAdmin"
+            ]
+        },
+
+        {
+            "icon": "bi-file-earmark-spreadsheet",
+            "title": "Productivity",
+            "description": "Office productivity and spreadsheet-based data handling.",
+            "tags": [
+                "Excel",
+                "Advanced Excel",
+                "Google Apps",
+                "MS Office"
+            ]
+        },
+
+        {
+            "icon": "bi-phone",
+            "title": "Android",
+            "description": "Basic Android application development.",
+            "tags": [
+                "Android Studio",
+                "Java",
+                "XML"
+            ]
+        },
+
+        {
+            "icon": "bi-git",
+            "title": "Tools",
+            "description": "Development tools and version control workflow.",
+            "tags": [
+                "GitHub",
+                "Git",
+                "VS Code",
+                "Visual Studio",
+                "XAMPP"
+            ]
+        }
+
+    ],
+
+    "projects": [
+
+        {
+            "category": "python",
+            "icon": "bi-tools",
+            "title": "Repair Service Management System",
+            "description": "A desktop-based repair service management application with customer, device, problem and status management.",
+            "technologies": [
+                "Python",
+                "Tkinter",
+                "SQLite"
+            ],
+            "link": "#"
+        },
+
+        {
+            "category": "php",
+            "icon": "bi-robot",
+            "title": "AIVault",
+            "description": "An AI tools directory website featuring categories, search, filtering, tool details, favorites and comparison functionality.",
+            "technologies": [
+                "PHP",
+                "MySQL",
+                "Bootstrap",
+                "JavaScript"
+            ],
+            "link": "#"
+        },
+
+        {
+            "category": "aspnet",
+            "icon": "bi-film",
+            "title": "Kalavithi Cinemas",
+            "description": "A cinema booking web application developed using ASP.NET Core MVC and Razor.",
+            "technologies": [
+                "ASP.NET Core",
+                "C#",
+                "Razor",
+                "Bootstrap"
+            ],
+            "link": "#"
+        },
+
+        {
+            "category": "php",
+            "icon": "bi-bus-front",
+            "title": "YatraSync",
+            "description": "A bus booking style web application with seat selection, booking logic and promotional code handling.",
+            "technologies": [
+                "PHP",
+                "MySQL",
+                "Bootstrap",
+                "JavaScript"
+            ],
+            "link": "#"
+        },
+
+        {
+            "category": "android",
+            "icon": "bi-phone",
+            "title": "UnitConvertMax",
+            "description": "An Android unit conversion application created as a practical mobile development project.",
+            "technologies": [
+                "Android Studio",
+                "Java",
+                "XML"
+            ],
+            "link": "#"
+        },
+
+        {
+            "category": "aspnet",
+            "icon": "bi-hospital",
+            "title": "Clinic Management Project",
+            "description": "A web-based clinic management project developed as part of software development coursework.",
+            "technologies": [
+                "ASP.NET",
+                "C#",
+                "SQL",
+                "Bootstrap"
+            ],
+            "link": "#"
+        }
+
+    ],
+
+    "education": [
+
+        {
+            "year": "2021",
+            "title": "B.A. Honours in Bengali",
+            "institution": "University of Calcutta",
+            "description": "Completed undergraduate studies in Bengali."
+        },
+
+        {
+            "year": "2021 – 2023",
+            "title": "M.A. in Linguistics",
+            "institution": "University of Calcutta",
+            "description": "Postgraduate study in Linguistics with interest in sociolinguistics and language-related research."
+        },
+
+        {
+            "year": "Professional Training",
+            "title": "NIELIT / Computer Applications",
+            "institution": "Computer & IT Training",
+            "description": "Training covering programming, web development, databases, office applications and related IT tools."
+        },
+
+        {
+            "year": "Certification",
+            "title": "Microsoft Office Specialist – Excel 2016",
+            "institution": "Microsoft Office Specialist",
+            "description": "Excel 2016 Specialist certification."
+        },
+
+        {
+            "year": "Certification",
+            "title": "Wadhwani Impactful Writing Skills",
+            "institution": "Wadhwani Foundation",
+            "description": "Completed foundational training in impactful writing skills."
+        }
+
+    ],
+
+    "contact": {
+        "github": "https://github.com/YOUR_USERNAME",
+        "linkedin": "https://www.linkedin.com/in/YOUR_USERNAME/",
+        "email": "yourmail@example.com"
+    }
+}
